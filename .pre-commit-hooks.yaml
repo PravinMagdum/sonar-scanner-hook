@@ -1,5 +1,5 @@
 - id: sonar_scanner
   name: Sonar scanner
   description: scans all files for sonar
-  entry: scanner.sh
-  language: script
+  entry: sonar-scanner
+  language: system
